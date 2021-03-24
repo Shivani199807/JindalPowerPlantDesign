@@ -68,7 +68,7 @@ opacity:0.9;
 overflow-y: scroll;}
 
 
-#section-one{background-image: url("images/steel.jpg");
+#section-one{background-image: url("../images/steel.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
